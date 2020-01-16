@@ -70,7 +70,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Introducción y Agentes](https://github.com/leonpalafox/aiclase/blob/master/Slides/UPAI2020.pptx)
+- [Clase 1 - Introducción y Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020.pptx)
 
 
 
