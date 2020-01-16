@@ -85,6 +85,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Libros de texto
 
+- [Matemáticas para Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 
 
 # Material especial para la clase
