@@ -66,7 +66,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 	- Ambientes
 	- Tipos de Agentes
 
-
+- Aprendizaje Reeforzado (Reinforcement Learning)
+  - Definición y ejemplos
 
 # Slides
 
@@ -76,6 +77,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 4 - Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_4.pptx)
 - [Clase 5 - Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_5.pptx)
 - [Clase 6 - Estados](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_6.pptx)
+- [Clase 7 - Reinforcement Learning - Intro](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_7.pptx)
 
 
 # Python Notebooks
