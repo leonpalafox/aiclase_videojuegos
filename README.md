@@ -77,6 +77,11 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 5 - Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_5.pptx)
 - [Clase 6 - Estados](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_6.pptx)
 - [Clase 7 - Reinforcement Learning - Intro](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_7.pptx)
+- [Clase 8 - Reinforcement Learning - Intro](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_8.pptx)
+- [Clase 9 - Reinforcement Learning - Intro](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_9.pptx)
+- [Clase 10 - Reinforcement Learning - Funcion de Valor](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_10.pptx)
+- [Clase 11 - Reinforcement Learning - Aprendizaje Q](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_11.pptx)
+- [Clase 12 - Reinforcement Learning - Funciones Lineales](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_12.pptx)
 
 
 
@@ -84,6 +89,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Notas
 
 - [Auto Trader](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/code/MarketTrader.ipynb)
+- [Reinforcement Learning](https://drive.google.com/open?id=1BvRIgOhGJdy_YFrMeVC23FvLaQqdSxcp)
+- [Regresion Lineal](https://drive.google.com/open?id=11noDW9tfwc3TD4q6zWNivDycYLl71dn2)
+
 
 
 
