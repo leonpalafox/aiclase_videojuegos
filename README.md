@@ -82,6 +82,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 10 - Reinforcement Learning - Funcion de Valor](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_10.pptx)
 - [Clase 11 - Reinforcement Learning - Aprendizaje Q](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_11.pptx)
 - [Clase 12 - Reinforcement Learning - Funciones Lineales](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_12.pptx)
+- [Clase 13 - Reinforcement Learning - Aproximación de Función de Valor](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_13.pptx)
 
 
 
