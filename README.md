@@ -72,6 +72,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 - [Clase 1 - Introducción y Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020.pptx)
 - [Clase 2 - Agentes y Racionalidad](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_2.pptx)
+{% comment %}
+
 - [Clase 3 - Ambientes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_3.pptx)
 - [Clase 4 - Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_4.pptx)
 - [Clase 5 - Agentes](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_5.pptx)
@@ -83,6 +85,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Clase 11 - Reinforcement Learning - Aprendizaje Q](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_11.pptx)
 - [Clase 12 - Reinforcement Learning - Funciones Lineales](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_12.pptx)
 - [Clase 13 - Reinforcement Learning - Aproximación de Función de Valor](https://github.com/leonpalafox/aiclase_videojuegos/blob/master/Slides/UPAI2020_13.pptx)
+{% endcomment %}
 
 
 
